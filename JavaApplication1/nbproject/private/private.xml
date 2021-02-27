@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/ChangePassword.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/service/BookTypeContorl.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/dao/BorrowDao.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/util/SqlHelper.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/RecordSearchByReaderId.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/BookDelete.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/ReaderDelete.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/CategoryDelete.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/BorrowUpdate.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/BookSearchByID.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/dao/BookTypeDao.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/RecordSearchByBookId.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/BookSearchByName.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/CategoryUpdateById.java</file>
+            <file>file:/E:/作业资料/Java课程设计/JavaApplication1/src/com/bookstenancy/view/BorrowAdd.java</file>
+        </group>
+    </open-files>
+</project-private>
